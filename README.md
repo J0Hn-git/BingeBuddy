@@ -1,4 +1,4 @@
-🎬 BingeBuddy - Discovery & Trending App
+🎬 BingeBuddy -
 A modern movie discovery platform that allows users to search for their favorite films and tracks community trends in real-time. Built with React, Appwrite, and the TMDB API.
 
 ---------------------------
@@ -25,3 +25,18 @@ Tech Stack
 * API: TMDB (The Movie Database)
 
 * Deployment: Vercel
+
+---------------------------
+
+<img width="1889" height="825" alt="image" src="https://github.com/user-attachments/assets/0b8563a5-58af-4e95-9703-0c78c7173327" />
+
+-------------------------
+
+<img width="1634" height="375" alt="image" src="https://github.com/user-attachments/assets/d496c3c0-939e-480f-b46a-801d15d19d24" />
+
+-------------------------
+
+<img width="1868" height="932" alt="image" src="https://github.com/user-attachments/assets/23d69ccb-b345-4b7c-a0a5-f98f5844ed9c" />
+
+
+
